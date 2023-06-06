@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T13:38:40.938Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="pLrqL3pGcVMD7ETMHjTY" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T13:41:49.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="YP5vyMSlE4Su9QIqWw5Q" version="21.3.7" type="github">
   <diagram name="Page-1" id="c37626ed-c26b-45fb-9056-f9ebc6bb27b6">
     <mxGraphModel dx="3058" dy="1710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="" parent="0" />
         <mxCell id="vTYYTcCQBsunpqbKioIv-38" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1147.09" y="-110" width="210" height="65" as="geometry" />
+          <mxGeometry x="1090" y="-109.5" width="210" height="65" as="geometry" />
         </mxCell>
         <mxCell id="zVsSm3GNM5P4r3RZKPwx-50" value="" style="whiteSpace=wrap;html=1;fillColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="-280.83" y="-120" width="580" height="240" as="geometry" />
@@ -64,7 +64,7 @@
         <mxCell id="zVsSm3GNM5P4r3RZKPwx-56" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;fwthbrspri18f001&lt;br&gt;PAN PA-820&lt;br&gt;10.230.16.22&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=#E6E6E6;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-480.83" y="-120" width="177.83" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="vTYYTcCQBsunpqbKioIv-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;50Mbps Internet link&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vTYYTcCQBsunpqbKioIv-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;50Mbps Internet Link&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-78.41" y="-477" width="197.17" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vTYYTcCQBsunpqbKioIv-4" value="E1/1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -128,19 +128,31 @@
           <mxGeometry x="-112.15" y="514" width="206.11" height="87" as="geometry" />
         </mxCell>
         <mxCell id="vTYYTcCQBsunpqbKioIv-33" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.internet_hollow" vertex="1" parent="1">
-          <mxGeometry x="1100" y="-710" width="304.19" height="188.6" as="geometry" />
+          <mxGeometry x="1103.09" y="-600" width="304.19" height="188.6" as="geometry" />
         </mxCell>
         <mxCell id="vTYYTcCQBsunpqbKioIv-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Aryaka Network&lt;/b&gt;&lt;br&gt;(WSUS Update, Asigra, Avamar)&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1104" y="-600" width="290" height="30" as="geometry" />
+          <mxGeometry x="1107.09" y="-490" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vTYYTcCQBsunpqbKioIv-35" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.internet_hollow" vertex="1" parent="1">
           <mxGeometry x="-159.28000000000003" y="-710" width="304.19" height="188.6" as="geometry" />
         </mxCell>
         <mxCell id="vTYYTcCQBsunpqbKioIv-37" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ANAP&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1156.6" y="-92.5" width="197.17" height="30" as="geometry" />
+          <mxGeometry x="1099.51" y="-92" width="197.17" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vTYYTcCQBsunpqbKioIv-40" value="" style="line;html=1;strokeColor=#000000;fillColor=#FF0000;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="983.96" y="-321.38" width="410" height="10" as="geometry" />
+          <mxGeometry x="1039.43" y="-265.91" width="299.06" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vTYYTcCQBsunpqbKioIv-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;20Mbps Link&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="-240" width="127.17" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vTYYTcCQBsunpqbKioIv-43" value="M1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="-149.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vTYYTcCQBsunpqbKioIv-44" value="LAN Port" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="-34.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vTYYTcCQBsunpqbKioIv-45" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Aryaka &lt;br&gt;ANAP3000&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=#E6E6E6;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1336.8700000000001" y="-119.5" width="177.83" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
